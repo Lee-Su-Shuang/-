@@ -1,0 +1,7 @@
+[console_scripts]
+annotation = line_follower_model.annotation_member_function:main
+generate_onnx = line_follower_model.generate_onnx_member_function:main
+line_follower_model = line_follower_model.line_follower_model:main
+pic_annotation = line_follower_model.pic_annotation_member:main
+training = line_follower_model.training_member_function:main
+

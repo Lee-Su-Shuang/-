@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing line_follower_model.egg-info/PKG-INFO
+writing dependency_links to line_follower_model.egg-info/dependency_links.txt
+writing entry points to line_follower_model.egg-info/entry_points.txt
+writing requirements to line_follower_model.egg-info/requires.txt
+writing top-level names to line_follower_model.egg-info/top_level.txt
+reading manifest file 'line_follower_model.egg-info/SOURCES.txt'
+writing manifest file 'line_follower_model.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line-follower-model.egg-link (link to .)
+Installing annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing generate_onnx script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing line_follower_model script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing pic_annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing training script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+
+Installed /home/lss/dev_ws/build/line_follower_model
+running symlink_data
+symbolically linking /home/lss/dev_ws/build/line_follower_model/resource/line_follower_model -> /home/lss/dev_ws/install/line_follower_model/share/ament_index/resource_index/packages
+symbolically linking /home/lss/dev_ws/build/line_follower_model/package.xml -> /home/lss/dev_ws/install/line_follower_model/share/line_follower_model

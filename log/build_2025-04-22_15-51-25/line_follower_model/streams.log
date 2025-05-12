@@ -1,0 +1,23 @@
+[0.325s] Invoking command in '/home/lss/dev_ws/build/line_follower_model': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lss/dev_ws/build/line_follower_model/build --no-deps symlink_data --force
+[0.466s] running develop
+[0.537s] running egg_info
+[0.537s] writing line_follower_model.egg-info/PKG-INFO
+[0.537s] writing dependency_links to line_follower_model.egg-info/dependency_links.txt
+[0.537s] writing entry points to line_follower_model.egg-info/entry_points.txt
+[0.538s] writing requirements to line_follower_model.egg-info/requires.txt
+[0.538s] writing top-level names to line_follower_model.egg-info/top_level.txt
+[0.538s] reading manifest file 'line_follower_model.egg-info/SOURCES.txt'
+[0.539s] writing manifest file 'line_follower_model.egg-info/SOURCES.txt'
+[0.540s] running build_ext
+[0.540s] Creating /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line-follower-model.egg-link (link to .)
+[0.540s] Installing annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.540s] Installing generate_onnx script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.540s] Installing line_follower_model script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.540s] Installing pic_annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.541s] Installing training script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.541s] 
+[0.541s] Installed /home/lss/dev_ws/build/line_follower_model
+[0.541s] running symlink_data
+[0.541s] symbolically linking /home/lss/dev_ws/build/line_follower_model/resource/line_follower_model -> /home/lss/dev_ws/install/line_follower_model/share/ament_index/resource_index/packages
+[0.541s] symbolically linking /home/lss/dev_ws/build/line_follower_model/package.xml -> /home/lss/dev_ws/install/line_follower_model/share/line_follower_model
+[0.559s] Invoked command in '/home/lss/dev_ws/build/line_follower_model' returned '0': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lss/dev_ws/build/line_follower_model/build --no-deps symlink_data --force

@@ -1,0 +1,414 @@
+odel/line_follower_model/training_space_16$ python3 training_member_function.py
+/home/lss/pytorch_env/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Epoch 1 - Train Loss: 21.813235, Test Loss: 0.450771
+           Class Loss: 0.313357 (60.79%), Reg Loss: 0.202156 (39.21%)
+           w_class * class_loss: 0.313357, w_reg * reg_loss: 0.202156
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 2 - Train Loss: 0.342000, Test Loss: 0.413506
+           Class Loss: 0.493651 (87.89%), Reg Loss: 0.068009 (12.11%)
+           w_class * class_loss: 0.493651, w_reg * reg_loss: 0.068009
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 3 - Train Loss: 0.227184, Test Loss: 0.103121
+           Class Loss: 0.124647 (84.35%), Reg Loss: 0.023125 (15.65%)
+           w_class * class_loss: 0.124647, w_reg * reg_loss: 0.023125
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 4 - Train Loss: 0.179173, Test Loss: 0.158856
+           Class Loss: 0.078177 (82.15%), Reg Loss: 0.016986 (17.85%)
+           w_class * class_loss: 0.078177, w_reg * reg_loss: 0.016986
+           Current Learning Rate: 0.001000
+Epoch 5 - Train Loss: 0.143483, Test Loss: 0.079805
+           Class Loss: 0.076788 (83.19%), Reg Loss: 0.015512 (16.81%)
+           w_class * class_loss: 0.076788, w_reg * reg_loss: 0.015512
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 6 - Train Loss: 0.131446, Test Loss: 0.125000
+           Class Loss: 0.007589 (22.54%), Reg Loss: 0.026085 (77.46%)
+           w_class * class_loss: 0.007589, w_reg * reg_loss: 0.026085
+           Current Learning Rate: 0.001000
+Epoch 7 - Train Loss: 0.124665, Test Loss: 0.164212
+           Class Loss: 0.141292 (83.41%), Reg Loss: 0.028108 (16.59%)
+           w_class * class_loss: 0.141292, w_reg * reg_loss: 0.028108
+           Current Learning Rate: 0.001000
+Epoch 8 - Train Loss: 0.126575, Test Loss: 0.066463
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.027898 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.027898
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 9 - Train Loss: 0.095460, Test Loss: 0.052849
+           Class Loss: 0.007091 (12.47%), Reg Loss: 0.049790 (87.53%)
+           w_class * class_loss: 0.007091, w_reg * reg_loss: 0.049790
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 10 - Train Loss: 0.101309, Test Loss: 0.029844
+           Class Loss: 0.006698 (65.22%), Reg Loss: 0.003571 (34.78%)
+           w_class * class_loss: 0.006698, w_reg * reg_loss: 0.003571
+           Current Learning Rate: 0.001000
+✅ Successfully saved best model!
+Epoch 11 - Train Loss: 0.090730, Test Loss: 0.065119
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.015179 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.015179
+           Current Learning Rate: 0.001000
+Epoch 12 - Train Loss: 0.101403, Test Loss: 0.084324
+           Class Loss: 0.065155 (87.43%), Reg Loss: 0.009369 (12.57%)
+           w_class * class_loss: 0.065155, w_reg * reg_loss: 0.009369
+           Current Learning Rate: 0.001000
+Epoch 13 - Train Loss: 0.091619, Test Loss: 0.046167
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.015339 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.015339
+           Current Learning Rate: 0.001000
+Epoch 14 - Train Loss: 0.083333, Test Loss: 0.124839
+           Class Loss: 0.159033 (94.56%), Reg Loss: 0.009152 (5.44%)
+           w_class * class_loss: 0.159033, w_reg * reg_loss: 0.009152
+           Current Learning Rate: 0.001000
+Epoch 15 - Train Loss: 0.074331, Test Loss: 0.049650
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.011864 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.011864
+           Current Learning Rate: 0.001000
+Epoch 16 - Train Loss: 0.072381, Test Loss: 0.075287
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.012156 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.012156
+           Current Learning Rate: 0.000500
+Epoch 17 - Train Loss: 0.069276, Test Loss: 0.043918
+           Class Loss: 0.068766 (82.76%), Reg Loss: 0.014328 (17.24%)
+           w_class * class_loss: 0.068766, w_reg * reg_loss: 0.014328
+           Current Learning Rate: 0.000500
+Epoch 18 - Train Loss: 0.054339, Test Loss: 0.062620
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.020208 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.020208
+           Current Learning Rate: 0.000500
+Epoch 19 - Train Loss: 0.062357, Test Loss: 0.059358
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.008723 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.008723
+           Current Learning Rate: 0.000500
+Epoch 20 - Train Loss: 0.063109, Test Loss: 0.027147
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.008184 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.008184
+           Current Learning Rate: 0.000500
+✅ Successfully saved best model!
+Epoch 21 - Train Loss: 0.051766, Test Loss: 0.040135
+           Class Loss: 0.063482 (83.90%), Reg Loss: 0.012182 (16.10%)
+           w_class * class_loss: 0.063482, w_reg * reg_loss: 0.012182
+           Current Learning Rate: 0.000500
+Epoch 22 - Train Loss: 0.063886, Test Loss: 0.035258
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.030850 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.030850
+           Current Learning Rate: 0.000500
+Epoch 23 - Train Loss: 0.072321, Test Loss: 0.037260
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.005447 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.005447
+           Current Learning Rate: 0.000500
+Epoch 24 - Train Loss: 0.045891, Test Loss: 0.071834
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.011483 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.011483
+           Current Learning Rate: 0.000500
+Epoch 25 - Train Loss: 0.060886, Test Loss: 0.116368
+           Class Loss: 0.070205 (90.94%), Reg Loss: 0.006997 (9.06%)
+           w_class * class_loss: 0.070205, w_reg * reg_loss: 0.006997
+           Current Learning Rate: 0.000500
+Epoch 26 - Train Loss: 0.056758, Test Loss: 0.015309
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.012092 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.012092
+           Current Learning Rate: 0.000500
+✅ Successfully saved best model!
+Epoch 27 - Train Loss: 0.058373, Test Loss: 0.021016
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.013937 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.013937
+           Current Learning Rate: 0.000500
+Epoch 28 - Train Loss: 0.060914, Test Loss: 0.039737
+           Class Loss: 0.069457 (81.45%), Reg Loss: 0.015821 (18.55%)
+           w_class * class_loss: 0.069457, w_reg * reg_loss: 0.015821
+           Current Learning Rate: 0.000500
+Epoch 29 - Train Loss: 0.057013, Test Loss: 0.077265
+           Class Loss: 0.068721 (79.82%), Reg Loss: 0.017375 (20.18%)
+           w_class * class_loss: 0.068721, w_reg * reg_loss: 0.017375
+           Current Learning Rate: 0.000500
+Epoch 30 - Train Loss: 0.054372, Test Loss: 0.027046
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.011379 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.011379
+           Current Learning Rate: 0.000500
+Epoch 31 - Train Loss: 0.051147, Test Loss: 0.097378
+           Class Loss: 0.133081 (98.70%), Reg Loss: 0.001748 (1.30%)
+           w_class * class_loss: 0.133081, w_reg * reg_loss: 0.001748
+           Current Learning Rate: 0.000500
+Epoch 32 - Train Loss: 0.051043, Test Loss: 0.024134
+           Class Loss: 0.043974 (76.77%), Reg Loss: 0.013309 (23.23%)
+           w_class * class_loss: 0.043974, w_reg * reg_loss: 0.013309
+           Current Learning Rate: 0.000250
+Epoch 33 - Train Loss: 0.051750, Test Loss: 0.040409
+           Class Loss: 0.068191 (90.68%), Reg Loss: 0.007008 (9.32%)
+           w_class * class_loss: 0.068191, w_reg * reg_loss: 0.007008
+           Current Learning Rate: 0.000250
+Epoch 34 - Train Loss: 0.045115, Test Loss: 0.013386
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.004238 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.004238
+           Current Learning Rate: 0.000250
+✅ Successfully saved best model!
+Epoch 35 - Train Loss: 0.048641, Test Loss: 0.034823
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.004429 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.004429
+           Current Learning Rate: 0.000250
+Epoch 36 - Train Loss: 0.035627, Test Loss: 0.052078
+           Class Loss: 0.070952 (88.40%), Reg Loss: 0.009311 (11.60%)
+           w_class * class_loss: 0.070952, w_reg * reg_loss: 0.009311
+           Current Learning Rate: 0.000250
+Epoch 37 - Train Loss: 0.037568, Test Loss: 0.073257
+           Class Loss: 0.133921 (97.76%), Reg Loss: 0.003068 (2.24%)
+           w_class * class_loss: 0.133921, w_reg * reg_loss: 0.003068
+           Current Learning Rate: 0.000250
+Epoch 38 - Train Loss: 0.032438, Test Loss: 0.014095
+           Class Loss: 0.004749 (41.22%), Reg Loss: 0.006771 (58.78%)
+           w_class * class_loss: 0.004749, w_reg * reg_loss: 0.006771
+           Current Learning Rate: 0.000250
+Epoch 39 - Train Loss: 0.030547, Test Loss: 0.026012
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.007495 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.007495
+           Current Learning Rate: 0.000250
+Epoch 40 - Train Loss: 0.045559, Test Loss: 0.044435
+           Class Loss: 0.133411 (98.91%), Reg Loss: 0.001470 (1.09%)
+           w_class * class_loss: 0.133411, w_reg * reg_loss: 0.001470
+           Current Learning Rate: 0.000125
+Epoch 41 - Train Loss: 0.033728, Test Loss: 0.023488
+           Class Loss: 0.071946 (92.41%), Reg Loss: 0.005905 (7.59%)
+           w_class * class_loss: 0.071946, w_reg * reg_loss: 0.005905
+           Current Learning Rate: 0.000125
+Epoch 42 - Train Loss: 0.034735, Test Loss: 0.038829
+           Class Loss: 0.132026 (98.29%), Reg Loss: 0.002303 (1.71%)
+           w_class * class_loss: 0.132026, w_reg * reg_loss: 0.002303
+           Current Learning Rate: 0.000125
+Epoch 43 - Train Loss: 0.036999, Test Loss: 0.031879
+           Class Loss: 0.070705 (90.22%), Reg Loss: 0.007668 (9.78%)
+           w_class * class_loss: 0.070705, w_reg * reg_loss: 0.007668
+           Current Learning Rate: 0.000125
+Epoch 44 - Train Loss: 0.032107, Test Loss: 0.030747
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.007937 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.007937
+           Current Learning Rate: 0.000125
+Epoch 45 - Train Loss: 0.038704, Test Loss: 0.030429
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.007808 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.007808
+           Current Learning Rate: 0.000125
+Epoch 46 - Train Loss: 0.039751, Test Loss: 0.040045
+           Class Loss: 0.131624 (98.85%), Reg Loss: 0.001536 (1.15%)
+           w_class * class_loss: 0.131624, w_reg * reg_loss: 0.001536
+           Current Learning Rate: 0.000063
+Epoch 47 - Train Loss: 0.026632, Test Loss: 0.047224
+           Class Loss: 0.137295 (93.42%), Reg Loss: 0.009667 (6.58%)
+           w_class * class_loss: 0.137295, w_reg * reg_loss: 0.009667
+           Current Learning Rate: 0.000063
+Epoch 48 - Train Loss: 0.029324, Test Loss: 0.025739
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.009398 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.009398
+           Current Learning Rate: 0.000063
+Epoch 49 - Train Loss: 0.029152, Test Loss: 0.039306
+           Class Loss: 0.070750 (93.03%), Reg Loss: 0.005302 (6.97%)
+           w_class * class_loss: 0.070750, w_reg * reg_loss: 0.005302
+           Current Learning Rate: 0.000063
+Epoch 50 - Train Loss: 0.031445, Test Loss: 0.024131
+           Class Loss: 0.070839 (92.28%), Reg Loss: 0.005923 (7.72%)
+           w_class * class_loss: 0.070839, w_reg * reg_loss: 0.005923
+           Current Learning Rate: 0.000063
+Epoch 51 - Train Loss: 0.030700, Test Loss: 0.037444
+           Class Loss: 0.074020 (92.21%), Reg Loss: 0.006255 (7.79%)
+           w_class * class_loss: 0.074020, w_reg * reg_loss: 0.006255
+           Current Learning Rate: 0.000063
+Epoch 52 - Train Loss: 0.026880, Test Loss: 0.034442
+           Class Loss: 0.071253 (91.79%), Reg Loss: 0.006373 (8.21%)
+           w_class * class_loss: 0.071253, w_reg * reg_loss: 0.006373
+           Current Learning Rate: 0.000031
+Epoch 53 - Train Loss: 0.031205, Test Loss: 0.043281
+           Class Loss: 0.071080 (92.95%), Reg Loss: 0.005394 (7.05%)
+           w_class * class_loss: 0.071080, w_reg * reg_loss: 0.005394
+           Current Learning Rate: 0.000031
+Epoch 54 - Train Loss: 0.025144, Test Loss: 0.044559
+           Class Loss: 0.135563 (97.28%), Reg Loss: 0.003795 (2.72%)
+           w_class * class_loss: 0.135563, w_reg * reg_loss: 0.003795
+           Current Learning Rate: 0.000031
+Epoch 55 - Train Loss: 0.033095, Test Loss: 0.061143
+           Class Loss: 0.132559 (98.89%), Reg Loss: 0.001490 (1.11%)
+           w_class * class_loss: 0.132559, w_reg * reg_loss: 0.001490
+           Current Learning Rate: 0.000031
+Epoch 56 - Train Loss: 0.031404, Test Loss: 0.070563
+           Class Loss: 0.207543 (98.82%), Reg Loss: 0.002476 (1.18%)
+           w_class * class_loss: 0.207543, w_reg * reg_loss: 0.002476
+           Current Learning Rate: 0.000031
+Epoch 57 - Train Loss: 0.025014, Test Loss: 0.035806
+           Class Loss: 0.072547 (93.91%), Reg Loss: 0.004707 (6.09%)
+           w_class * class_loss: 0.072547, w_reg * reg_loss: 0.004707
+           Current Learning Rate: 0.000031
+Epoch 58 - Train Loss: 0.025396, Test Loss: 0.017406
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.009970 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.009970
+           Current Learning Rate: 0.000016
+Epoch 59 - Train Loss: 0.024590, Test Loss: 0.055522
+           Class Loss: 0.132455 (99.19%), Reg Loss: 0.001077 (0.81%)
+           w_class * class_loss: 0.132455, w_reg * reg_loss: 0.001077
+           Current Learning Rate: 0.000016
+Epoch 60 - Train Loss: 0.025876, Test Loss: 0.045363
+           Class Loss: 0.134569 (98.61%), Reg Loss: 0.001902 (1.39%)
+           w_class * class_loss: 0.134569, w_reg * reg_loss: 0.001902
+           Current Learning Rate: 0.000016
+Epoch 61 - Train Loss: 0.028979, Test Loss: 0.027649
+           Class Loss: 0.069347 (95.66%), Reg Loss: 0.003147 (4.34%)
+           w_class * class_loss: 0.069347, w_reg * reg_loss: 0.003147
+           Current Learning Rate: 0.000016
+Epoch 62 - Train Loss: 0.023790, Test Loss: 0.036380
+           Class Loss: 0.073591 (94.90%), Reg Loss: 0.003951 (5.10%)
+           w_class * class_loss: 0.073591, w_reg * reg_loss: 0.003951
+           Current Learning Rate: 0.000016
+Epoch 63 - Train Loss: 0.023461, Test Loss: 0.017034
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.007607 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.007607
+           Current Learning Rate: 0.000016
+Epoch 64 - Train Loss: 0.029222, Test Loss: 0.041674
+           Class Loss: 0.070513 (91.94%), Reg Loss: 0.006183 (8.06%)
+           w_class * class_loss: 0.070513, w_reg * reg_loss: 0.006183
+           Current Learning Rate: 0.000008
+Epoch 65 - Train Loss: 0.028266, Test Loss: 0.036533
+           Class Loss: 0.073909 (92.69%), Reg Loss: 0.005827 (7.31%)
+           w_class * class_loss: 0.073909, w_reg * reg_loss: 0.005827
+           Current Learning Rate: 0.000008
+Epoch 66 - Train Loss: 0.019968, Test Loss: 0.040871
+           Class Loss: 0.070380 (91.23%), Reg Loss: 0.006768 (8.77%)
+           w_class * class_loss: 0.070380, w_reg * reg_loss: 0.006768
+           Current Learning Rate: 0.000008
+Epoch 67 - Train Loss: 0.030270, Test Loss: 0.029802
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.003957 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.003957
+           Current Learning Rate: 0.000008
+Epoch 68 - Train Loss: 0.024728, Test Loss: 0.037890
+           Class Loss: 0.133179 (98.18%), Reg Loss: 0.002469 (1.82%)
+           w_class * class_loss: 0.133179, w_reg * reg_loss: 0.002469
+           Current Learning Rate: 0.000008
+Epoch 69 - Train Loss: 0.028099, Test Loss: 0.035382
+           Class Loss: 0.070208 (93.56%), Reg Loss: 0.004831 (6.44%)
+           w_class * class_loss: 0.070208, w_reg * reg_loss: 0.004831
+           Current Learning Rate: 0.000008
+Epoch 70 - Train Loss: 0.023243, Test Loss: 0.041073
+           Class Loss: 0.070153 (95.83%), Reg Loss: 0.003053 (4.17%)
+           w_class * class_loss: 0.070153, w_reg * reg_loss: 0.003053
+           Current Learning Rate: 0.000004
+Epoch 71 - Train Loss: 0.026783, Test Loss: 0.042054
+           Class Loss: 0.069109 (88.98%), Reg Loss: 0.008562 (11.02%)
+           w_class * class_loss: 0.069109, w_reg * reg_loss: 0.008562
+           Current Learning Rate: 0.000004
+Epoch 72 - Train Loss: 0.028271, Test Loss: 0.047849
+           Class Loss: 0.135663 (99.30%), Reg Loss: 0.000951 (0.70%)
+           w_class * class_loss: 0.135663, w_reg * reg_loss: 0.000951
+           Current Learning Rate: 0.000004
+Epoch 73 - Train Loss: 0.026548, Test Loss: 0.037621
+           Class Loss: 0.073710 (91.69%), Reg Loss: 0.006680 (8.31%)
+           w_class * class_loss: 0.073710, w_reg * reg_loss: 0.006680
+           Current Learning Rate: 0.000004
+Epoch 74 - Train Loss: 0.026428, Test Loss: 0.035954
+           Class Loss: 0.071445 (97.66%), Reg Loss: 0.001714 (2.34%)
+           w_class * class_loss: 0.071445, w_reg * reg_loss: 0.001714
+           Current Learning Rate: 0.000004
+Epoch 75 - Train Loss: 0.026675, Test Loss: 0.029843
+           Class Loss: 0.073172 (92.16%), Reg Loss: 0.006225 (7.84%)
+           w_class * class_loss: 0.073172, w_reg * reg_loss: 0.006225
+           Current Learning Rate: 0.000004
+Epoch 76 - Train Loss: 0.030754, Test Loss: 0.041902
+           Class Loss: 0.069011 (92.41%), Reg Loss: 0.005665 (7.59%)
+           w_class * class_loss: 0.069011, w_reg * reg_loss: 0.005665
+           Current Learning Rate: 0.000002
+Epoch 77 - Train Loss: 0.021714, Test Loss: 0.043108
+           Class Loss: 0.134426 (97.62%), Reg Loss: 0.003272 (2.38%)
+           w_class * class_loss: 0.134426, w_reg * reg_loss: 0.003272
+           Current Learning Rate: 0.000002
+Epoch 78 - Train Loss: 0.023067, Test Loss: 0.059611
+           Class Loss: 0.143526 (98.75%), Reg Loss: 0.001814 (1.25%)
+           w_class * class_loss: 0.143526, w_reg * reg_loss: 0.001814
+           Current Learning Rate: 0.000002
+Epoch 79 - Train Loss: 0.025227, Test Loss: 0.039962
+           Class Loss: 0.136570 (99.55%), Reg Loss: 0.000622 (0.45%)
+           w_class * class_loss: 0.136570, w_reg * reg_loss: 0.000622
+           Current Learning Rate: 0.000002
+Epoch 80 - Train Loss: 0.026510, Test Loss: 0.040189
+           Class Loss: 0.135689 (97.84%), Reg Loss: 0.002996 (2.16%)
+           w_class * class_loss: 0.135689, w_reg * reg_loss: 0.002996
+           Current Learning Rate: 0.000002
+Epoch 81 - Train Loss: 0.030577, Test Loss: 0.036168
+           Class Loss: 0.068322 (90.36%), Reg Loss: 0.007285 (9.64%)
+           w_class * class_loss: 0.068322, w_reg * reg_loss: 0.007285
+           Current Learning Rate: 0.000002
+Epoch 82 - Train Loss: 0.030425, Test Loss: 0.042159
+           Class Loss: 0.071401 (88.60%), Reg Loss: 0.009184 (11.40%)
+           w_class * class_loss: 0.071401, w_reg * reg_loss: 0.009184
+           Current Learning Rate: 0.000001
+Epoch 83 - Train Loss: 0.029239, Test Loss: 0.035026
+           Class Loss: 0.072211 (92.36%), Reg Loss: 0.005971 (7.64%)
+           w_class * class_loss: 0.072211, w_reg * reg_loss: 0.005971
+           Current Learning Rate: 0.000001
+Epoch 84 - Train Loss: 0.023079, Test Loss: 0.039868
+           Class Loss: 0.070488 (91.71%), Reg Loss: 0.006370 (8.29%)
+           w_class * class_loss: 0.070488, w_reg * reg_loss: 0.006370
+           Current Learning Rate: 0.000001
+Epoch 85 - Train Loss: 0.021187, Test Loss: 0.048967
+           Class Loss: 0.069451 (91.52%), Reg Loss: 0.006435 (8.48%)
+           w_class * class_loss: 0.069451, w_reg * reg_loss: 0.006435
+           Current Learning Rate: 0.000001
+Epoch 86 - Train Loss: 0.022991, Test Loss: 0.055815
+           Class Loss: 0.135864 (99.27%), Reg Loss: 0.000997 (0.73%)
+           w_class * class_loss: 0.135864, w_reg * reg_loss: 0.000997
+           Current Learning Rate: 0.000001
+Epoch 87 - Train Loss: 0.027074, Test Loss: 0.053007
+           Class Loss: 0.070026 (87.96%), Reg Loss: 0.009581 (12.04%)
+           w_class * class_loss: 0.070026, w_reg * reg_loss: 0.009581
+           Current Learning Rate: 0.000001
+Epoch 88 - Train Loss: 0.028070, Test Loss: 0.044804
+           Class Loss: 0.131838 (98.44%), Reg Loss: 0.002094 (1.56%)
+           w_class * class_loss: 0.131838, w_reg * reg_loss: 0.002094
+           Current Learning Rate: 0.000000
+Epoch 89 - Train Loss: 0.026907, Test Loss: 0.032911
+           Class Loss: 0.062871 (94.54%), Reg Loss: 0.003628 (5.46%)
+           w_class * class_loss: 0.062871, w_reg * reg_loss: 0.003628
+           Current Learning Rate: 0.000000
+Epoch 90 - Train Loss: 0.024934, Test Loss: 0.043590
+           Class Loss: 0.072356 (90.57%), Reg Loss: 0.007531 (9.43%)
+           w_class * class_loss: 0.072356, w_reg * reg_loss: 0.007531
+           Current Learning Rate: 0.000000
+Epoch 91 - Train Loss: 0.026375, Test Loss: 0.041345
+           Class Loss: 0.072002 (90.83%), Reg Loss: 0.007269 (9.17%)
+           w_class * class_loss: 0.072002, w_reg * reg_loss: 0.007269
+           Current Learning Rate: 0.000000
+Epoch 92 - Train Loss: 0.028491, Test Loss: 0.064571
+           Class Loss: 0.133978 (98.10%), Reg Loss: 0.002599 (1.90%)
+           w_class * class_loss: 0.133978, w_reg * reg_loss: 0.002599
+           Current Learning Rate: 0.000000
+Epoch 93 - Train Loss: 0.030417, Test Loss: 0.016992
+           Class Loss: 0.000000 (0.00%), Reg Loss: 0.006405 (100.00%)
+           w_class * class_loss: 0.000000, w_reg * reg_loss: 0.006405
+           Current Learning Rate: 0.000000
+Epoch 94 - Train Loss: 0.022800, Test Loss: 0.048656
+           Class Loss: 0.069722 (97.68%), Reg Loss: 0.001654 (2.32%)
+           w_class * class_loss: 0.069722, w_reg * reg_loss: 0.001654
+           Current Learning Rate: 0.000000
+Epoch 95 - Train Loss: 0.029768, Test Loss: 0.034876
+           Class Loss: 0.063137 (90.26%), Reg Loss: 0.006813 (9.74%)
+           w_class * class_loss: 0.063137, w_reg * reg_loss: 0.006813
+           Current Learning Rate: 0.000000
+Epoch 96 - Train Loss: 0.025664, Test Loss: 0.045119
+           Class Loss: 0.132381 (99.22%), Reg Loss: 0.001044 (0.78%)
+           w_class * class_loss: 0.132381, w_reg * reg_loss: 0.001044
+           Current Learning Rate: 0.000000
+Epoch 97 - Train Loss: 0.029514, Test Loss: 0.059556
+           Class Loss: 0.132976 (97.41%), Reg Loss: 0.003542 (2.59%)
+           w_class * class_loss: 0.132976, w_reg * reg_loss: 0.003542
+           Current Learning Rate: 0.000000
+Epoch 98 - Train Loss: 0.025250, Test Loss: 0.041195
+           Class Loss: 0.069063 (91.77%), Reg Loss: 0.006193 (8.23%)
+           w_class * class_loss: 0.069063, w_reg * reg_loss: 0.006193
+           Current Learning Rate: 0.000000
+Epoch 99 - Train Loss: 0.027892, Test Loss: 0.053057
+           Class Loss: 0.132140 (96.99%), Reg Loss: 0.004108 (3.01%)
+           w_class * class_loss: 0.132140, w_reg * reg_loss: 0.004108
+           Current Learning Rate: 0.000000
+Epoch 100 - Train Loss: 0.027656, Test Loss: 0.036120
+           Class Loss: 0.070234 (92.35%), Reg Loss: 0.005818 (7.65%)
+           w_class * class_loss: 0.070234, w_reg * reg_loss: 0.005818
+           Current Learning Rate: 0.000000
+

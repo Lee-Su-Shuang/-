@@ -1,0 +1,59 @@
+[0.380s] Invoking command in '/home/lss/dev_ws/build/line_follower_model': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/lss/dev_ws/build/line_follower_model/build
+[0.529s] running develop
+[0.608s] Removing /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line-follower-model.egg-link (link to .)
+[0.624s] Invoked command in '/home/lss/dev_ws/build/line_follower_model' returned '0': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/lss/dev_ws/build/line_follower_model/build
+[0.625s] Invoking command in '/home/lss/dev_ws/src/line_follower/line_follower_model': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/line_follower_model build --build-base /home/lss/dev_ws/build/line_follower_model/build install --record /home/lss/dev_ws/build/line_follower_model/install.log --single-version-externally-managed install_data --force
+[0.761s] running egg_info
+[0.761s] writing ../../../build/line_follower_model/line_follower_model.egg-info/PKG-INFO
+[0.761s] writing dependency_links to ../../../build/line_follower_model/line_follower_model.egg-info/dependency_links.txt
+[0.762s] writing entry points to ../../../build/line_follower_model/line_follower_model.egg-info/entry_points.txt
+[0.762s] writing requirements to ../../../build/line_follower_model/line_follower_model.egg-info/requires.txt
+[0.762s] writing top-level names to ../../../build/line_follower_model/line_follower_model.egg-info/top_level.txt
+[0.763s] reading manifest file '../../../build/line_follower_model/line_follower_model.egg-info/SOURCES.txt'
+[0.764s] writing manifest file '../../../build/line_follower_model/line_follower_model.egg-info/SOURCES.txt'
+[0.764s] running build
+[0.764s] running build_py
+[0.765s] copying line_follower_model/new1.py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.766s] copying line_follower_model/training_member_function_resnet.py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.766s] copying line_follower_model/pic_annotation_member.py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.766s] copying line_follower_model/training_member_function_new_edition.py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.766s] copying line_follower_model/evaluate_only.py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.766s] copying line_follower_model/training_member_function .py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+[0.767s] running install
+[0.767s] running install_lib
+[0.768s] creating /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.768s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/annotation_member_function.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/__init__.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/new1.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/training_member_function_resnet.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/pic_annotation_member.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/training_member_function.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/training_member_function_new_edition.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.769s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/evaluate_only.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.770s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/generate_onnx_member_function.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.770s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/training_member_function .py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.770s] copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/line_follower_model.py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+[0.770s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/annotation_member_function.py to annotation_member_function.cpython-310.pyc
+[0.771s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/__init__.py to __init__.cpython-310.pyc
+[0.772s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/new1.py to new1.cpython-310.pyc
+[0.772s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/training_member_function_resnet.py to training_member_function_resnet.cpython-310.pyc
+[0.772s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/pic_annotation_member.py to pic_annotation_member.cpython-310.pyc
+[0.773s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/training_member_function.py to training_member_function.cpython-310.pyc
+[0.774s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/training_member_function_new_edition.py to training_member_function_new_edition.cpython-310.pyc
+[0.774s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/evaluate_only.py to evaluate_only.cpython-310.pyc
+[0.775s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/generate_onnx_member_function.py to generate_onnx_member_function.cpython-310.pyc
+[0.775s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/training_member_function .py to training_member_function .cpython-310.pyc
+[0.775s] byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/line_follower_model.py to line_follower_model.cpython-310.pyc
+[0.775s] running install_data
+[0.775s] copying resource/line_follower_model -> /home/lss/dev_ws/install/line_follower_model/share/ament_index/resource_index/packages
+[0.776s] copying package.xml -> /home/lss/dev_ws/install/line_follower_model/share/line_follower_model
+[0.776s] running install_egg_info
+[0.777s] Copying ../../../build/line_follower_model/line_follower_model.egg-info to /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model-0.0.0-py3.10.egg-info
+[0.778s] running install_scripts
+[0.791s] Installing annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.792s] Installing generate_onnx script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.792s] Installing line_follower_model script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.792s] Installing pic_annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.792s] Installing training script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+[0.793s] writing list of installed files to '/home/lss/dev_ws/build/line_follower_model/install.log'
+[0.808s] Invoked command in '/home/lss/dev_ws/src/line_follower/line_follower_model' returned '0': PYTHONPATH=/home/lss/dev_ws/build/line_follower_model/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/line_follower_model build --build-base /home/lss/dev_ws/build/line_follower_model/build install --record /home/lss/dev_ws/build/line_follower_model/install.log --single-version-externally-managed install_data --force

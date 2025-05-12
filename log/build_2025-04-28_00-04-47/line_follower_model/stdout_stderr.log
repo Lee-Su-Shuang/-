@@ -1,0 +1,26 @@
+running egg_info
+writing ../../../build/line_follower_model/line_follower_model.egg-info/PKG-INFO
+writing dependency_links to ../../../build/line_follower_model/line_follower_model.egg-info/dependency_links.txt
+writing entry points to ../../../build/line_follower_model/line_follower_model.egg-info/entry_points.txt
+writing requirements to ../../../build/line_follower_model/line_follower_model.egg-info/requires.txt
+writing top-level names to ../../../build/line_follower_model/line_follower_model.egg-info/top_level.txt
+reading manifest file '../../../build/line_follower_model/line_follower_model.egg-info/SOURCES.txt'
+writing manifest file '../../../build/line_follower_model/line_follower_model.egg-info/SOURCES.txt'
+running build
+running build_py
+copying line_follower_model/training_member_function .py -> /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model
+running install
+running install_lib
+copying /home/lss/dev_ws/build/line_follower_model/build/lib/line_follower_model/training_member_function .py -> /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model
+byte-compiling /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model/training_member_function .py to training_member_function .cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/line_follower_model/line_follower_model.egg-info to /home/lss/dev_ws/install/line_follower_model/lib/python3.10/site-packages/line_follower_model-0.0.0-py3.10.egg-info
+running install_scripts
+Installing annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing generate_onnx script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing line_follower_model script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing pic_annotation script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+Installing training script to /home/lss/dev_ws/install/line_follower_model/lib/line_follower_model
+writing list of installed files to '/home/lss/dev_ws/build/line_follower_model/install.log'
