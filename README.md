@@ -1,0 +1,4 @@
+这是南京大学《智能机器人创新实践》课程的代码，本人修改部分主要在10_model_convert下和line_follower_model下，其中10_model_convert主要是增加了适用于mobilenetv3和smallCNN的模型转换代码,
+line_follower_model中修改了模型训练代码，使用混合损失函数代替原MSE损失函数，后又尝试模型蒸馏，此外增加了模型分类效果检测的代码，和功能增强了的数据集标注代码，
+各个功能的代码也是专门为各个模型设计，使用时稍需要注意，此外本人还上传了训练处的效果比较好的resnet18模型和mobilenetv3模型以供参考
+
